@@ -13,6 +13,12 @@
             "link": "https://youtu.be/7xRkQlbbb50?si=1ieZRYfmqI9jL-cJ",
             "percent": 100,
             "hz": 288
+        },
+        {
+            "user": "astronium",
+            "link": "https://www.youtube.com/watch?v=RdMFLK9EALo",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
