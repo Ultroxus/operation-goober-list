@@ -8,5 +8,11 @@
     "percentToQualify": 100,
     "password": "Not Copyable",
     "records": [
+        {
+            "user": "MayoDevice",
+            "link": "https://www.youtube.com/watch?v=SEBYyd8yn7o&t=7s",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
