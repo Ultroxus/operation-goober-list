@@ -3,10 +3,16 @@
     "name": "Sonic Wave",
     "author": "Sunix",
     "creators": ["Cyclic"],
-    "verifier": "Ultroxus",
-    "verification": "https://www.youtube.com/watch?v=vgXC6e1bJ4w&t=3s",
+    "verifier": "RAASU",
+    "verification": "https://youtu.be/O5zFmdV_xEQ",
     "percentToQualify": 100,
     "password": "112516",
     "records": [
+        {
+            "user": "Ultroxus",
+            "link": "https://www.youtube.com/watch?v=vgXC6e1bJ4w&t=3s",
+            "percent": 100,
+            "hz": 360
+        }
     ]
 }
