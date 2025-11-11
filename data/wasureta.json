@@ -1,1 +1,18 @@
-
+{
+    "id": 64658786,
+    "name": "Wasureta",
+    "author": "Helpegasus",
+    "creators": ["LimeTime313, Deadlox, Helpegasus, augi, Isane, XLSpiral, Splash, BelonziK, REDACTED, El3ctr0"],
+    "verifier": "RAASU",
+    "verification": "https://youtu.be/_Jt7BFOKrsg",
+    "percentToQualify": 100,
+    "password": "Free to Copy",
+    "records": [
+        {
+            "user": "Talkative_Toad",
+            "link": "https://www.youtube.com/@TalkativeToadGD/videos",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
