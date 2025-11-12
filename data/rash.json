@@ -3,10 +3,16 @@
     "name": "RASH",
     "author": "Loltad",
     "creators": ["Loltad"],
-    "verifier": "Ultroxus",
-    "verification": "https://www.youtube.com/watch?v=04gw-y7uNFg",
+    "verifier": "RAASU",
+    "verification": "https://youtu.be/nWu4fhiW3WY",
     "percentToQualify": 100,
     "password": "Free to Copy",
     "records": [
+        {
+            "user": "Ultroxus",
+            "link": "https://www.youtube.com/watch?v=04gw-y7uNFg",
+            "percent": 100,
+            "hz": 360
+        }
     ]
 }
