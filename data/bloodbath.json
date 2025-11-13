@@ -19,6 +19,12 @@
             "link": "https://www.youtube.com/watch?v=NOP1yVvHhms",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "xNormal",
+            "link": "https://www.youtube.com/channel/UCK_n2avaMPLjmispdZ84Yuw",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
