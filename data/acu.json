@@ -8,5 +8,17 @@
     "percentToQualify": 100,
     "password": "Free to Copy",
     "records": [
+        {
+            "user": "Omipious",
+            "link": "https://www.youtube.com/watch?v=ugii3qKH9lE",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Siylvyra",
+            "link": "https://www.youtube.com/@siylvyra/videos",
+            "percent": 100,
+            "hz": 120
+        },
     ]
 }
