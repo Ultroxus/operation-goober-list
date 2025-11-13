@@ -1,1 +1,18 @@
-
+{
+    "id": 2374518,
+    "name": "Red World",
+    "author": "saRy",
+    "creators": ["saRy, NePtunE"],
+    "verifier": "RAASU",
+    "verification": "https://youtu.be/XHPC_0ywIJY",
+    "percentToQualify": 100,
+    "password": "Free to Copy",
+    "records": [
+        {
+            "user": "Talkative_Toad",
+            "link": "https://medal.tv/games/geometry-dash/clips/kMiScNczCPrp7kSh4/spok?invite=cr-MSxNWmIsMjQzMDE1MjcwLA",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
