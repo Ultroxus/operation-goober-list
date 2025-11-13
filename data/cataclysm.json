@@ -8,5 +8,17 @@
     "percentToQualify": 100,
     "password": "666777",
     "records": [
+        {
+            "user": "RAASU",
+            "link": "https://www.youtube.com/watch?v=qZq0GOYnkcg",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Talkative_Toad",
+            "link": "https://medal.tv/games/geometry-dash/clips/k2FmY0C8wWI1RTIxV/spok?invite=cr-MSxBT1YsMjQzMDE1MjcwLA",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
