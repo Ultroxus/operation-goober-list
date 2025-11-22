@@ -25,6 +25,12 @@
             "link": "https://www.youtube.com/channel/UCK_n2avaMPLjmispdZ84Yuw",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "Melvin",
+            "link": "https://www.youtube.com/watch?v=atQzt0lHiu0",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
