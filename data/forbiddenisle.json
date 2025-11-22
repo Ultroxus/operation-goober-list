@@ -13,6 +13,12 @@
             "link": "https://www.youtube.com/channel/UCK_n2avaMPLjmispdZ84Yuw",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "Melvin",
+            "link": "https://www.youtube.com/@Melvin_GD",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
