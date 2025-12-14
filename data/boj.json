@@ -8,11 +8,5 @@
     "percentToQualify": 100,
     "password": "Free to Copy",
     "records": [
-        {
-            "user": "xNormal",
-            "link": "https://www.youtube.com/channel/UCK_n2avaMPLjmispdZ84Yuw",
-            "percent": 100,
-            "hz": 360
-        }
     ]
 }
