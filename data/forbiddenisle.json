@@ -8,11 +8,5 @@
     "percentToQualify": 100,
     "password": "Free to Copy",
     "records": [
-        {
-            "user": "Melvin",
-            "link": "https://www.youtube.com/@Melvin_GD",
-            "percent": 100,
-            "hz": 240
-        }
     ]
 }
