@@ -3,16 +3,10 @@
     "name": "Red World",
     "author": "saRy",
     "creators": ["saRy, NePtunE"],
-    "verifier": "RAASU",
-    "verification": "https://youtu.be/Lkkj1EutA58",
+    "verifier": "Talkative_Toad",
+    "verification": "https://www.youtube.com/watch?v=VLBPAy4q83k",
     "percentToQualify": 100,
     "password": "Free to Copy",
     "records": [
-        {
-            "user": "Talkative_Toad",
-            "link": "https://medal.tv/games/geometry-dash/clips/kMiScNczCPrp7kSh4/spok?invite=cr-MSxNWmIsMjQzMDE1MjcwLA",
-            "percent": 100,
-            "hz": 360
-        }
     ]
 }
