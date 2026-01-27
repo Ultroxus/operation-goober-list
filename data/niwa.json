@@ -3,22 +3,10 @@
     "name": "Niwa",
     "author": "Teno",
     "creators": ["Teno, Mrgm, Aranda, Titoalper, KrazyGFX, BeClan, Asuith, Pedro, Blaze, Genoxide, peng"],
-    "verifier": "RAASU",
-    "verification": "https://youtu.be/e8RpmxrEZG8",
+    "verifier": "Talkative_Toad",
+    "verification": "https://www.youtube.com/watch?v=bRu2Ny68tW8",
     "percentToQualify": "100",
     "password": "Free to Copy",
     "records": [
-        {
-            "user": "Jeezwastaken",
-            "link": "https://youtu.be/UZF8xByMgfY?si=bDaIbSsG0syt4mrn",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": "Talkative_Toad",
-            "link": "https://medal.tv/games/geometry-dash/clips/llPOA0whzFmi5w_Sp/spok?invite=cr-MSxENEUsMjQzMDE1MjcwLA",
-            "percent": 100,
-            "hz": 120
-        }
     ]
 }
