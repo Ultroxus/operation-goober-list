@@ -3,16 +3,10 @@
     "name": "moment",
     "author": "LexyCat",
     "creators": ["Lexycat, icedcave, stormfly"],
-    "verifier": "RAASU",
-    "verification": "https://youtu.be/kGyOEVS-VPI",
+    "verifier": "Talkative_Toad",
+    "verification": "https://www.youtube.com/watch?v=-BsYEuJQqVY",
     "percentToQualify": 100,
     "password": "Not Copyable",
     "records": [
-        {
-            "user": "Talkative_Toad",
-            "link": "https://medal.tv/games/geometry-dash/clips/lchNt2qR8vG9bterj/spok?invite=cr-MSxOcmEsMjQzMDE1MjcwLA",
-            "percent": 100,
-            "hz": 360
-        }
     ]
 }
