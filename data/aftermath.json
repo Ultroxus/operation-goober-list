@@ -8,5 +8,11 @@
     "percentToQualify": 100,
     "password": "123985",
     "records": [
+        {
+            "user": "NemesisAthena",
+            "link": "https://www.youtube.com/watch?v=KcJIPvA3gEk",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
