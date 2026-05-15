@@ -8,5 +8,11 @@
     "percentToQualify": 100,
     "password": "Free to Copy",
     "records": [
+        {
+            "user": "Frost_Berry",
+            "link": "https://www.youtube.com/watch?v=tS3A9bE0I_k",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
