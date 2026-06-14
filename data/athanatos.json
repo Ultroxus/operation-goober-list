@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
+        {
+            "user": "Ultroxus",
+            "link": "https://www.youtube.com/watch?v=HId5tRmIST0&pp=0gcJCUELAYcqIYzv",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
