@@ -3,26 +3,14 @@
     "name": "Cataclysm",
     "author": "GgB0y",
     "creators": [],
-    "verifier": "Ultroxus",
-    "verification": "https://www.youtube.com/watch?v=61cGTt6io84&t=238s",
+    "verifier": "Nemesis Athena",
+    "verification": "https://www.youtube.com/watch?v=7xRkQlbbb50",
     "percentToQualify": 100,
     "password": "666777",
     "records": [
         {
-            "user": "Frost_Berry",
-            "link": "https://medal.tv/games/geometry-dash/clips/k2FmY0C8wWI1RTIxV/spok?invite=cr-MSxBT1YsMjQzMDE1MjcwLA",
-            "percent": 100,
-            "hz": 240
-        },
-        {
-            "user": "NemesisAthena",
-            "link": "https://www.youtube.com/watch?v=7xRkQlbbb50",
-            "percent": 100,
-            "hz": 240
-        },
-        {
-            "user": "Trizzy",
-            "link": "https://youtu.be/Jvsmqb4Q1HI?si=KvzeZIMTxMxXq36M",
+            "user": "Ultroxus",
+            "link": "https://www.youtube.com/watch?v=61cGTt6io84&t=238s",
             "percent": 100,
             "hz": 240
         }
