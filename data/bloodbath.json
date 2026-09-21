@@ -3,32 +3,14 @@
     "name": "Bloodbath",
     "author": "Riot",
     "creators": ["Michigun, Riot, Asonicmen, weoweoteo, Evasium, Etzer, Giron, Crack, Havok, Vermillion, GgB0y"],
-    "verifier": "Ultroxus",
-    "verification": "https://www.youtube.com/watch?v=g7pASegs6VA&t=155s",
+    "verifier": "NemesisAthena"",
+    "verification": "https://www.youtube.com/watch?v=0BCGyFZxvlc&pp=0gcJCd4KAYcqIYzv",
     "percentToQualify": 100,
     "password": "Not Copyable",
     "records": [
         {
-            "user": "Siylvyra",
-            "link": "https://www.youtube.com/watch?v=NOP1yVvHhms",
-            "percent": 100,
-            "hz": 240
-        },
-        {
-            "user": "itsLexii",
-            "link": "https://www.youtube.com/watch?v=hVXgHEYKp1k",
-            "percent": 100,
-            "hz": 240
-        },
-        {
-            "user": "NemesisAthena",
-            "link": "https://www.youtube.com/watch?v=0BCGyFZxvlc&pp=0gcJCd4KAYcqIYzv",
-            "percent": 100,
-            "hz": 240
-        },
-        {
-            "user": "Trizzy",
-            "link": "https://youtu.be/0xPlKOtS7No?si=g-rQoxOeHp0wo-zd",
+            "user": "Ultroxus",
+            "link": "https://www.youtube.com/watch?v=g7pASegs6VA&t=155s",
             "percent": 100,
             "hz": 240
         }
