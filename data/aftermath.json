@@ -3,14 +3,14 @@
     "name": "aftermath",
     "author": "Exenity",
     "creators": ["Hinds, Exenity, Squizz, Findexi, Waze, knobbelboy, Vultra, Rhythmic, Bassiegames"],
-    "verifier": "Ultroxus",
-    "verification": "https://www.youtube.com/watch?v=LRi2W0Z0HAk&t=71s",
+    "verifier": "Nemesis Athena",
+    "verification": "https://www.youtube.com/watch?v=KcJIPvA3gEk",
     "percentToQualify": 100,
     "password": "123985",
     "records": [
         {
-            "user": "NemesisAthena",
-            "link": "https://www.youtube.com/watch?v=KcJIPvA3gEk",
+            "user": "Ultroxus",
+            "link": "https://www.youtube.com/watch?v=LRi2W0Z0HAk&t=71s",
             "percent": 100,
             "hz": 240
         }
