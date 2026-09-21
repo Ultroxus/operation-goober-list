@@ -3,16 +3,10 @@
     "name": "Athanatos",
     "author": "Exenity",
     "creators": ["Gaero, Herzilo, Exenity"],
-    "verifier": "Frost_Berry",
-    "verification": "https://www.youtube.com/watch?v=5AFvZk25lII",
+    "verifier": "Ultroxus",
+    "verification": "https://www.youtube.com/watch?v=HId5tRmIST0&pp=0gcJCUELAYcqIYzv",
     "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
-        {
-            "user": "Ultroxus",
-            "link": "https://www.youtube.com/watch?v=HId5tRmIST0&pp=0gcJCUELAYcqIYzv",
-            "percent": 100,
-            "hz": 240
-        }
     ]
 }
