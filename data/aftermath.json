@@ -8,5 +8,11 @@
     "percentToQualify": 100,
     "password": "123985",
     "records": [
+        {
+            "user": "FridgeUK",
+            "link": "https://www.youtube.com/watch?v=zGYS41_KB6o",
+            "percent": 100,
+            "hz": 360
+        }
     ]
 }
