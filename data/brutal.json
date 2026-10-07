@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
+        {
+            "user": "Asda",
+            "link": "https://www.tiktok.com/@fridgeukgd/video/7636125961611791638?_r=1&_t=ZN-9ALB27Pzqct",
+            "percent": 100,
+            "hz": 360
+        }
     ]
 }
