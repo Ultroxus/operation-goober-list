@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
+        {
+            "user": "Asda",
+            "link": "https://www.youtube.com/watch?v=fcYijqPj6DY",
+            "percent": 100,
+            "hz": 360
+        }
     ]
 }
