@@ -8,5 +8,11 @@
     "percentToQualify": 100,
     "password": "112516",
     "records": [
+        {
+            "user": "Morrisons",
+            "link": "https://www.youtube.com/@shadowscoregd",
+            "percent": 100,
+            "hz": 360
+        }
     ]
 }
